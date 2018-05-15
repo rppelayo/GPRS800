@@ -4,7 +4,7 @@
 
 ##### Wiring
 
-####### For SIM800 Shields:
+###### For SIM800 Shields:
 
 SIM800 | Arduino
 ------ | -------
