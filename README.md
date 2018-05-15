@@ -1,10 +1,10 @@
 # GPRS800 Library for SIM800 module and breakout board
 
-###Full tutorial on using this library is found on: https://www.teachmemicro.com/arduino-gprs
+##Full tutorial on using this library is found on: https://www.teachmemicro.com/arduino-gprs
 
-###Wiring
+######Wiring
 
-####For SIM800 Shields:
+######For SIM800 Shields:
 
 SIM800 | Arduino
 ------ | -------
@@ -13,7 +13,7 @@ RX|D7
 POWER PIN|D9
 POWER STATUS|D12
 
-####For SIM800 Breakout Board*:
+######For SIM800 Breakout Board*:
 
 SIM800 | Arduino
 ------ | -------
