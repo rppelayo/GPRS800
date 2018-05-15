@@ -4,6 +4,16 @@ Sketch: GPRS Connection Test
 by R. Pelayo
 Copyright (c) January 2018 Teach Me Micro
 
+Full tutorial: https://www.teachmemicro.com/arduino-gprs
+
+Wiring:
+
+SIM800 TX -> D8
+SIM800 RX ->D7
+Optional (for SIM800 shields):
+ SIM800 POWER PIN -> D9          
+ SIM800 POWER STATUS -> D12
+
 */
 #include <gprs800.h>
 #include <SoftwareSerial.h>
