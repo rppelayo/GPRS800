@@ -34,7 +34,7 @@ void setup() {
   while(!Serial);
   Serial.println("GPRS HTTP Connection Example");  
   Serial.print("Connecting via ");
-  Serial.prinln(apn);
+  Serial.println(apn);
   
   while(!gprs.init(apn, uname, pword)) { 
       delay(2000);
